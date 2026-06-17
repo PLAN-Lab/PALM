@@ -1,0 +1,8 @@
+tensorflow == 2.15.0
+tensorflow_datasets == 4.9.2
+tensorflow_graphics == 2021.12.3
+dlimp @ git+https://github.com/kvablack/dlimp@d08da3852c149548aaa8551186d619d87375df08
+imageio
+absl-py
+mujoco
+roboticstoolbox-python[collision]
