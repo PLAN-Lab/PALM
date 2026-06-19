@@ -20,7 +20,7 @@
 
 - 🤖 **Unified VLA framework:** PALM couples affordance reasoning with subtask progress estimation.
 
-- 🫴 **Structured affordance reasoning:** PALM predicts future interaction cues for object relevance, contact, placement, and motion.
+- 🎯 **Structured affordance reasoning:** PALM predicts future interaction cues for object relevance, contact, placement, and motion.
 
 - 🏆 **Strong long-horizon results:** PALM achieves state-of-the-art performance on CALVIN ABC-D and LIBERO-LONG, with robust real-world generalization.
 
@@ -88,7 +88,7 @@ If you find the project helpful for your research, please consider citing our pa
 ```bibtex
 @inproceedings{liu2026palm,
   title={PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation},
-  author={Liu, Yuanzhe and Zhu, Jingyuan and Mo, Yuchen and Li, Gen and Cao, Xu and Jin, Jin and Shen, Yifan and Li, Zhengyuan and Yu, Tianjiao and Yuan, Wenzhen and others},
+  author={Liu, Yuanzhe and Zhu, Jingyuan and Mo, Yuchen and Li, Gen and Cao, Xu and Jin, Jin and Shen, Yifan and Li, Zhengyuan and Yu, Tianjiao and Yuan, Wenzhen and Ding, Fangqiang and Lourentzou, Ismini},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2026}
 }
